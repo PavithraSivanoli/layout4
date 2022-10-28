@@ -1,0 +1,159 @@
+.start
+{
+	
+	background-color:grey;
+	height:75px;
+	width:1348px;
+
+}
+.style
+{
+	
+	width:1350px;
+	background-color:black;
+	height:200px;
+
+				text-align:center;
+		line-heigth:50px;
+}
+.content
+{
+	
+	width:1350px;
+	height:90px;
+		margin-bottom:5px;
+		text-align:center;
+		line-heigth:50px;
+
+}
+		
+.box1
+{
+	float:left;
+	height:200px;
+	width:225px;
+	display:flex-start;
+	background-color:grey;
+		margin-bottom:20px;
+		margin-left:2%;
+		margin-right:2%;
+		text-align:center;
+		line-heigth:50px;
+}
+.box2
+{
+	float:left;
+	height:200px;
+	width:225px;
+	display:flex-start;
+	background-color:grey;
+		margin-bottom:20px;
+		margin-left:2%;
+		margin-right:2%;
+		text-align:center;
+		line-heigth:50px;
+}
+.box3
+{
+	float:left;
+	height:200px;
+	width:225px;
+	display:flex-start;
+	background-color:grey;
+		margin-bottom:20px;
+		margin-left:2%;
+		margin-right:2%;
+		text-align:center;
+		line-heigth:50px;
+}
+.box4
+{
+	float:left;
+	height:200px;
+	width:225px;
+	display:flex-start;
+	background-color:grey;
+		margin-bottom:20px;
+		margin-left:2%;
+		margin-right:2%;
+		text-align:center;
+		line-heigth:50px;
+}
+.box5
+{
+	float:left;
+	height:200px;
+	width:225px;
+	display:flex-start;
+	background-color:grey;
+		margin-bottom:20px;
+		margin-left:2%;
+		margin-right:2%;
+		text-align:center;
+		line-heigth:50px;
+}
+.box6
+{
+	float:left;
+	height:200px;
+	width:225px;
+	display:flex-start;
+	background-color:grey;
+		margin-bottom:20px;
+		margin-left:2%;
+		margin-right:2%;
+		text-align:center;
+		line-heigth:50px;
+}
+.box6
+{
+	float:left;
+	height:200px;
+	width:225px;
+	display:flex-start;
+	background-color:grey;
+		margin-bottom:20px;
+		margin-left:2%;
+		margin-right:2%;
+		text-align:center;
+		line-heigth:50px;
+}
+.box7
+{
+	float:left;
+	height:200px;
+	width:225px;
+	display:flex-start;
+	background-color:grey;
+		margin-bottom:20px;
+		margin-left:2%;
+		margin-right:2%;
+		text-align:center;
+		line-heigth:50px;
+}
+.box8
+{
+	float:left;
+	height:200px;
+	width:225px;
+	display:flex-start;
+	background-color:grey;
+		margin-bottom:20px;
+		margin-left:2%;
+		margin-right:2%;
+		text-align:center;
+		line-heigth:50px;
+}
+		
+
+.footer
+{
+	margin-top:500px;
+	width:1350px;
+	background-color:pink;
+	height:200px;
+		margin-bottom:5px;
+		text-align:center;
+		line-heigth:50px;
+		
+}
